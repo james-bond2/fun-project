@@ -1,10 +1,20 @@
 body{
+    
+    background-color: darkslategray;
+}
+
+.change{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: darkslategray;
+}
+
+.center{
+    text-align: center;
+    margin-top: 45px;
+    color: aliceblue;
 }
 
 .counter-container{
